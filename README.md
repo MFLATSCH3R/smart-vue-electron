@@ -23,4 +23,4 @@ npm run lint
 
 
 #### This project is based on 
-*[SimulatedGREG/electron-vue](https://github.com/SimulatedGREG/electron-vue)
+[link text itself]: https://github.com/SimulatedGREG/electron-vue
