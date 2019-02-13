@@ -1,6 +1,6 @@
 # smart-vue-electron
 
-> An electron-vue project
+> An electron-vue project for couragous SMARTASTICS
 
 #### Build Setup
 
@@ -21,4 +21,5 @@ npm test
 # lint all JS/Vue component files in `src/`
 npm run lint
 
-```
+
+#### This project is based on [https://github.com/SimulatedGREG/electron-vue]
