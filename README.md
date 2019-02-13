@@ -22,4 +22,5 @@ npm test
 npm run lint
 
 
-#### This project is based on [https://github.com/SimulatedGREG/electron-vue]
+#### This project is based on 
+[https://github.com/SimulatedGREG/electron-vue]
