@@ -24,4 +24,4 @@ npm run lint
 ```
 
 #### This project is based on 
-[I'm an inline-style link with title](https://github.com/SimulatedGREG/electron-vue "Google's Homepage")
+[SimulatedGREG/electron-vue](https://github.com/SimulatedGREG/electron-vue "SimulatedGREG/electron-vue")
